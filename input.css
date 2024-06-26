@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face
+{
+    font-family: 'Outfit';
+    src: url('./fonts/Outfit-VariableFont_wght.ttf');
+    font-weight: 400,700;
+}
+
+body{
+    font-family: 'Outfit', 'sans';
+}
