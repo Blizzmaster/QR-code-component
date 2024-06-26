@@ -2482,7 +2482,7 @@ video {
 {
   font-family: 'Outfit';
 
-  src: url('./fonts/Outfit-VariableFont_wght.ttf');
+  src: url('../fonts/Outfit-VariableFont_wght.ttf');
 
   font-weight: 400,700;
 }
